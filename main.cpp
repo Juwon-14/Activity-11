@@ -7,9 +7,9 @@
 using namespace std;
 
 int main() {
-    int value1; //first value
-    int value2; // second value
-    int value3; // Larger value
+    int value1; 
+    int value2; 
+    int value3; 
 
     // Ask the user for first value and second value
     cout << "Enter the first value: ";
